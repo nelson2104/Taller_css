@@ -1,0 +1,144 @@
+html{
+    box-shadow: inset 6px 6px 131px -51px rgba(0,0,0,0.71);
+}
+
+body{
+    background: rgb(235, 235, 235);
+    
+}
+
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+    width: 70%;
+    margin: auto;
+    margin-top: 3%;
+    border: 3px solid black;
+    margin-bottom: 4%;
+    background: rgb(245, 245, 245);
+    border-radius: 15px;
+    background-color: rgba(138, 134, 224, 0.82);
+    box-shadow: inset 6px 6px 131px -51px rgba(0,0,0,0.71);
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(138, 134, 224, 0.82);
+    padding: 5px;
+    font-family: 'lucida sans';
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 2px;
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+    
+}
+
+#info {
+    width: 1000px;
+    float: left;
+    margin-right: 40px;
+    
+}
+
+#cajaImagen{
+    margin: auto;
+    float: left;
+    width: 30%;
+    margin-left: 45px;
+}
+
+img {
+    width: 80%;
+    border-radius: 180px;
+    border: 10px solid black;
+    box-shadow: -8px 13px 34px 0px rgba(35,29,117,0.82);
+}
+
+#principal {
+    float: left;
+    width: 60%;
+    background: rgb(225, 253, 188);
+    border-radius: 12px;
+    box-shadow: inset 6px 6px 131px -51px rgba(0,0,0,0.71);
+}
+
+#titulo {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(99,210,218);
+    font-weight: 500;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 12px;
+    width: 90%;
+    margin-left: 30px;
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+
+#datos {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0 20px;
+
+}
+
+aside {
+    width: 190px;
+    float: left;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    margin: 0%;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding: 12px;
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(99,210,218);
+    border-radius: 15px;
+    box-shadow: 3px 8px 8px 5px;
+   
+}
+
+.ref_f, .ref_p, .cursos, .exp{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.boton1:hover {
+    background: yellow;
+    transition: all .5s ease-in ;
+    
+}
+
+
+.boton2:hover {
+    background: rgb(39, 228, 39);
+    transition: all .5s ease-in ;
+}
+.boton3:hover {
+    background: rgb(255, 28, 28);
+    transition: all .5s ease-in ;
+}
+
+.boton4:hover {
+    background: rgb(228, 31, 228);
+    transition: all .5s ease-in ;
+}
+
+.boton5:hover {
+    background: rgb(63, 30, 250);
+    transition: all .5s ease-in ;
+}
